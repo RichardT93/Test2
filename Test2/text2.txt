@@ -1,4 +1,0 @@
-name: Richard Tiongco
-number: (916) 896-4387
-age: 30
-sex: M
